@@ -1,0 +1,10 @@
+C:\Users\murat\source\repos\benzetim tavlaması denemesi\benzetim tavlaması denemesi\bin\Debug\benzetim tavlaması denemesi.exe.config
+C:\Users\murat\source\repos\benzetim tavlaması denemesi\benzetim tavlaması denemesi\bin\Debug\benzetim tavlaması denemesi.exe
+C:\Users\murat\source\repos\benzetim tavlaması denemesi\benzetim tavlaması denemesi\bin\Debug\benzetim tavlaması denemesi.pdb
+C:\Users\murat\source\repos\benzetim tavlaması denemesi\benzetim tavlaması denemesi\obj\Debug\benzetim tavlaması denemesi.csproj.AssemblyReference.cache
+C:\Users\murat\source\repos\benzetim tavlaması denemesi\benzetim tavlaması denemesi\obj\Debug\benzetim_tavlaması_denemesi.Form1.resources
+C:\Users\murat\source\repos\benzetim tavlaması denemesi\benzetim tavlaması denemesi\obj\Debug\benzetim_tavlaması_denemesi.Properties.Resources.resources
+C:\Users\murat\source\repos\benzetim tavlaması denemesi\benzetim tavlaması denemesi\obj\Debug\benzetim tavlaması denemesi.csproj.GenerateResource.cache
+C:\Users\murat\source\repos\benzetim tavlaması denemesi\benzetim tavlaması denemesi\obj\Debug\benzetim tavlaması denemesi.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\benzetim tavlaması denemesi\benzetim tavlaması denemesi\obj\Debug\benzetim tavlaması denemesi.exe
+C:\Users\murat\source\repos\benzetim tavlaması denemesi\benzetim tavlaması denemesi\obj\Debug\benzetim tavlaması denemesi.pdb
